@@ -1,0 +1,60 @@
+body {
+     margin: 0 auto;
+     width: 80%;
+     height: 100%;
+     background-color: #5D8AA8;
+     font-family: 'Inconsolata', monospace;
+}
+
+.centered{
+  text-align: center;
+
+}
+
+.contact{
+  width: 25%;
+  background-color: #e7d9b9;
+}
+
+table {
+  margin: 10px auto;
+  border: 1px solid;
+  background-color: yellow;
+}
+
+td{
+    padding: 10px;
+}
+
+nav{
+    padding: 10px 0px 10px 20px;
+  background-color: black ;
+  text-align: center;
+  color: blue;
+}
+
+a:hover{
+  color: #eef7e6;
+}
+
+#mailto{
+    position: fixed;
+    background-color: #1bb85d;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+}
+
+#mailto a:hover{
+  text-decoration: none;
+  background-color: black;
+}
+
+#stats{
+  background-color: gray;
+}
+
+footer{
+  bottom: 0;
+  text-align: center;
+}
